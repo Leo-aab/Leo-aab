@@ -4,14 +4,22 @@
 
 Hi, I'm Leo
 
-Linux enthusiast focused on building minimal and efficient systems  
-(Debian, NixOS, Void Linux, BSDs).
+Linux enthusiast focused on building minimal, efficient, and reproducible systems.
+
+I work with Debian, NixOS, Void Linux, and BSDs, creating lightweight environments and improving system configuration through automation.
+
 
 
  Tech stack & interests:
 - Shell scripting
 - Linux system configuration
+- Containers & virtualization (Docker, VMs)
 - IaC (currently learning Terraform / Ansible)
+
+
+ Current focus:
+- Minimal Linux setups
+- Automation and system provisioning
 
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
