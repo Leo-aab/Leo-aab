@@ -4,10 +4,10 @@
 
 
 
-![DEBIAN](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-
-![NIX](https://img.shields.io/badge/Nix-7EBAE4?style=flat&logo=nixos&logoColor=white&labelColor=5277C3)
-
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white)
+![FreeBSD](https://img.shields.io/badge/-FreeBSD-%23870000?style=for-the-badge&logo=freebsd&logoColor=white)
+![OpenBSD](https://img.shields.io/badge/-OpenBSD-%23FCC771?style=for-the-badge&logo=openbsd&logoColor=black)
 
 Hi! Im a Linux enthusiast! My hobbie is build minimal system (Debian, Arch, Void) 
 
